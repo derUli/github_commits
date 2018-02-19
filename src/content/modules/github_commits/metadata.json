@@ -1,0 +1,15 @@
+{
+	"source": "extend",
+	"version": "1.0",
+	"embed": true,
+	"controllers": {
+		"GitHubCommitsController": "controllers/GitHubCommitsController.php"
+	},
+	"objects": {
+		"GitHubException": "exceptions/GitHubException.php",
+		"GitHubCommitsConstants": "objects/Constants.php",
+		"GitHubCommit": "objects/GitHubCommit.php",
+		"GitHubCommits": "objects/GitHubCommits.php"
+	},
+	"main_class": "GitHubCommitsController"
+}
