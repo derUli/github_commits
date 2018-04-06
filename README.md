@@ -1,5 +1,5 @@
 # github_comments
-UliCMS Module - Show GitHub Commits in a page
+UliCMS Module - Shows GitHub Commits in a page
 
 ## Use it
 1. Insert the github_commits embed code into a page.
