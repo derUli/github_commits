@@ -14,5 +14,6 @@ UliCMS Module - Show GitHub Commits in a page
 }
 ```
 
-The code above shows the last 10 commits on the master branch of the GitHub repository derUli/ulicms
+The code above shows the last 10 commits on the master branch of the GitHub repository derUli/ulicms.
+
 Showing other branches than the master branch is not supported yet.
