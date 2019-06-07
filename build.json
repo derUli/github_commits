@@ -1,10 +1,10 @@
 {
 	"id": "github_commits",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "Show GitHub commits in your website",
 	"categories": [
 		"development"
 	],
-	"compatible_from": "2018.2",
+	"compatible_from": "2019.3.1",
 	"dependencies": []
 }

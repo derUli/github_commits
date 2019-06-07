@@ -1,4 +1,7 @@
 <?php
+
+use UliCMS\Utils\CacheUtil;
+
 class GitHubCommits {
 	private $commits = array ();
 	public function __construct($username, $repository, $count) {
