@@ -1,5 +1,5 @@
 <?php
-class GitHubCommitsTest extends PHPUnit_Framework_TestCase {
+class GitHubCommitsTest extends \PHPUnit\Framework\TestCase {
 	public function testGetCommits1() {
 		$commits = new GitHubCommits ( "derUli", "ulicms", 10 );
 		$commits = $commits->getCommits ();
